@@ -1,0 +1,17 @@
+Creating a repository in GIT Cloud
+1. Click on New Repository ('+' next to profile)
+2. Add the Repository Name(Test)
+3. Repository url (https://github.com/srinivasgangappa/Test.git)
+
+Associating java project to GIT Cloud from eclipse
+1.  Right Click on Project--> Team--> Share project-->
+2.  click on Use or Create Repository in parent folder of project checkbox
+3.  Select the project and click on Create Repository
+4.  Click on Finish
+
+Commiting and pushing the Git repository cloud
+1. Right Click on Project--> Team--> Commit
+2. Enter the commit commends to commit
+3. Select the files to commit -->Click on Commit and push
+4. Enter the URL of the repository
+5. Add user name and password --> next-->next Finish
