@@ -16,4 +16,10 @@ public class TestGitHub {
 	{
 		Reporter.log("Test", true);
 	}
+	
+	@Test
+	public void test2()
+	{
+		Reporter.log("Test", true);
+	}
 }
